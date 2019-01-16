@@ -1,0 +1,12 @@
+﻿{
+  "id": "spacechase0.AlwaysMinimapPortraits",
+  "name": "Always Minimap Portraits",
+  "description":  "Show portraits regardless of friendship level on the minimap.",
+  "author": "spacechase0",
+  "version": "1.0.0",
+  "type": "assembly",
+  "assembly": {
+    "dll": "AlwaysMinimapPortraits.dll",
+    "class": "AlwaysMinimapPortraits.Mod"
+  }
+}
